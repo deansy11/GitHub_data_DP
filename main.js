@@ -16,8 +16,7 @@ function reqListener () {
             <ul>
               <li>Name: ${data.name}</li>
               <li>GitHub URL: ${data.html_url}</li>
-              <li>Email: emilyldeans@gmail.com</li>
-              <li>Company: ${data.company}</li>
+              <li>Company: The Iron Yard</li>
               <li>Website: ${data.blog}</li>
             </ul>
         </div>
