@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  color: white;
+  background-color: #1D1D1D;
+  height: 100px;
+  margin: 0;
+  padding-top: 30px;
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+}
+
+.totalContent {
+  display: flex;
+  flex-direction: row;
+}
+
+img {
+  height: 200px;
+  border-radius: 100px;
+  margin-top: 50px;
+}
+
+.basics, .story {
+  font-size: 
+}
