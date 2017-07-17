@@ -3,16 +3,17 @@ h1 {
   color: white;
   background-color: #1D1D1D;
   height: 100px;
-  font-size: 50px;
+  font-size: 60px;
   font-weight: 100;
   margin: 0;
   padding-top: 30px;
   font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
-  border-image: url(img/border_img.png);
-  /*border-image-repeat: stretch;*/
+  /*border-image: url(img/Black_tri.png);
   border: 10px solid;
-    padding: 15px;
-    -webkit-border-image: url(img/border_img.png) 30 round;
+    padding: 5px;
+    -webkit-border-image: url(img/Black_tri.png) 80 round;
+    border-bottom:url(img/Black_tri.png)*/
+
 }
 
 .totalContent {
@@ -36,6 +37,11 @@ h3 {
 ul {
   list-style: none;
   color: #CCCCCC;
+  font-size: 18px;
+}
+
+span {
+  color: #7FAEAE;
 }
 
 .story {
@@ -48,6 +54,8 @@ p {
   border-left: 1px solid #CCCCCC;
   color: #CCCCCC;
   padding: 25px 0 0 25px;
+  font-size: 18px;
+  font-weight: 500;
 }
 
 img {

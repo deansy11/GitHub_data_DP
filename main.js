@@ -14,10 +14,10 @@ function reqListener () {
         <div class="basics">
           <h3>The Basics</h3>
             <ul>
-              <li>Name: ${data.name}</li>
-              <li>GitHub URL: ${data.html_url}</li>
-              <li>Company: The Iron Yard</li>
-              <li>Website: ${data.blog}</li>
+              <li><span>Name: </span>${data.name}</li>
+              <li><span>GitHub URL: </span>${data.html_url}</li>
+              <li><span>Company: </span>The Iron Yard</li>
+              <li><span>Website: </span>${data.blog}</li>
             </ul>
         </div>
         <div class="story">
